@@ -1,6 +1,6 @@
 import React from 'react';
 import "./syllabus.css";
-import syllsbusPdf from "../../utils/mernSyllabus.pdf";
+import syllsbusPdf from "../../utils/FSD-MERN syllabus.pdf";
 import { FaDownload } from "react-icons/fa";
 
 const Syllabus = () => {
